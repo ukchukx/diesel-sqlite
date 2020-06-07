@@ -1,0 +1,3 @@
+DROP TRIGGER IF EXISTS UpdateTimestamps;
+
+DROP TABLE IF EXISTS users;
